@@ -1,0 +1,11 @@
+C:\Users\cabda\Desktop\preject1\Home assignment\bin\Debug\Home assignment.exe.config
+C:\Users\cabda\Desktop\preject1\Home assignment\bin\Debug\Home assignment.exe
+C:\Users\cabda\Desktop\preject1\Home assignment\bin\Debug\Home assignment.pdb
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home assignment.csproj.AssemblyReference.cache
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home_assignment.Form1.resources
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home_assignment.Properties.Resources.resources
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home assignment.csproj.GenerateResource.cache
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home assignment.csproj.CoreCompileInputs.cache
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home assignment.exe
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home assignment.pdb
+C:\Users\cabda\Desktop\preject1\Home assignment\obj\Debug\Home assignment.exe.config
