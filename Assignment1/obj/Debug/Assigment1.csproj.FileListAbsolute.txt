@@ -1,0 +1,10 @@
+C:\Users\cabda\Desktop\preject1\Assigment1\obj\Debug\Assigment1.csproj.AssemblyReference.cache
+C:\Users\cabda\Desktop\preject1\Assigment1\obj\Debug\Assigment1.Form1.resources
+C:\Users\cabda\Desktop\preject1\Assigment1\obj\Debug\Assigment1.Properties.Resources.resources
+C:\Users\cabda\Desktop\preject1\Assigment1\obj\Debug\Assigment1.csproj.GenerateResource.cache
+C:\Users\cabda\Desktop\preject1\Assigment1\obj\Debug\Assigment1.csproj.CoreCompileInputs.cache
+C:\Users\cabda\Desktop\preject1\Assigment1\bin\Debug\Assigment1.exe.config
+C:\Users\cabda\Desktop\preject1\Assigment1\bin\Debug\Assigment1.exe
+C:\Users\cabda\Desktop\preject1\Assigment1\bin\Debug\Assigment1.pdb
+C:\Users\cabda\Desktop\preject1\Assigment1\obj\Debug\Assigment1.exe
+C:\Users\cabda\Desktop\preject1\Assigment1\obj\Debug\Assigment1.pdb
